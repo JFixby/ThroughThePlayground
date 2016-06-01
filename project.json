@@ -1,0 +1,31 @@
+{
+    "project_type": "javascript",
+
+    "debugMode" : 0,
+    "showFPS" : false,
+    "frameRate" : 60,
+    "noCache" : false,
+    "id" : "gameCanvas",
+    "renderMode" : 0,
+    "engineDir":"frameworks/cocos2d-html5",
+
+    "modules" : ["cocos2d", "extensions"],
+
+    "jsList_" : [
+        "/Users/victor-k/Documents/dev/my/AdventureJam2016/src/aux.js",
+        "/Users/victor-k/Documents/dev/my/AdventureJam2016/src/strings.js",
+        "/Users/victor-k/Documents/dev/my/AdventureJam2016/src/resource.js",
+        "/Users/victor-k/Documents/dev/my/AdventureJam2016/src/prologue.js",
+        "/Users/victor-k/Documents/dev/my/AdventureJam2016/src/playground.js",
+        "/Users/victor-k/Documents/dev/my/AdventureJam2016/src/titles.js"
+    ],
+
+    "jsList" : [
+        "src/aux.js",
+        "src/strings.js",
+        "src/resource.js",
+        "src/prologue.js",
+        "src/playground.js",
+        "src/titles.js"
+    ]
+}

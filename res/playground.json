@@ -1,0 +1,177 @@
+{
+    "Layer 362": {
+        "file": "res/playground/Layer_362.png", 
+        "name": "Layer_362", 
+        "x": 2548.5, 
+        "y": 117.0, 
+        "z": -1
+    },
+    "decor_fence": {
+        "file": "res/playground/decor_fence.png",
+        "name": "decor_fence",
+        "x": 1447.5,
+        "y": 344.0,
+        "z": -1
+    },
+    "decor_bushesnsticks": {
+        "file": "res/playground/decor_bushesnsticks.png",
+        "name": "decor_bushesnsticks",
+        "x": 1489.5,
+        "y": 453.0,
+        "z": -1
+    },
+    "decor_flags": {
+        "file": "res/playground/decor_flags.png",
+        "name": "decor_flags",
+        "x": 283.0,
+        "y": 132.5,
+        "z": 1
+    },
+    "Layer 363": {
+        "file": "res/playground/Layer_363.png", 
+        "name": "Layer_363", 
+        "x": 1520.0,
+        "y": 398.0, 
+        "z": 1
+    },
+    "decor_streetlamp": {
+        "file": "res/playground/decor_streetlamp.png",
+        "name": "decor_streetlamp",
+        "x": 665.5,
+        "y": 202.5,
+        "z": -1
+    },
+    "decor_streetlamp_2": {
+        "file": "res/playground/decor_streetlamp_2.png",
+        "name": "decor_streetlamp_2",
+        "x": 1633.0,
+        "y": 199.5,
+        "z": -1
+    },
+    "decor_umbrella": {
+        "file": "res/playground/decor_umbrella.png",
+        "name": "decor_umbrella",
+        "x": 1036.5,
+        "y": 271.5,
+        "z": -1
+    },
+    "idol_hare": {
+        "file": "res/playground/idol_hare.png",
+        "name": "idol_hare",
+        "x": 1076.0,
+        "y": 318.0,
+        "z": -1
+    },
+    "decor_tires": {
+        "file": "res/playground/decor_tires.png",
+        "name": "decor_tires",
+        "x": 821.0,
+        "y": 386.0,
+        "z": -1
+    },
+    "decor_dino": {
+        "file": "res/playground/decor_dino.png", 
+        "name": "decor_dino", 
+        "x": 357.5, 
+        "y": 244.0, 
+        "z": -1
+    },
+    "decor_dino_open": {
+        "file": "res/playground/decor_dino_open.png",
+        "name": "decor_dino_open",
+        "x": 372,
+        "y": 244.0,
+        "z": -1
+    },
+    "decor_steps": {
+        "file": "res/playground/decor_steps.png", 
+        "name": "decor_steps", 
+        "x": 350.0, 
+        "y": 541.0, 
+        "z": -1
+    },
+    "forest": {
+        "file": "res/playground/forest.png", 
+        "name": "forest", 
+        "x": 1307.5, 
+        "y": 191.5, 
+        "z": -2
+    },
+    "ground": {
+        "file": "res/playground/ground.png", 
+        "name": "ground", 
+        "x": 1307.5, 
+        "y": 360.0, 
+        "z": -4
+    },
+    "play_swing": {
+        "file": "res/playground/play_swing.png",
+        "name": "play_swing",
+        "x": 850.0,
+        "y": 277.0,
+        "z": -1
+    },
+    "idol_horse": {
+        "file": "res/playground/idol_horse.png", 
+        "name": "idol_horse", 
+        "x": 1566.0, 
+        "y": 265.0, 
+        "z": -1
+    },
+    "idol_yaga": {
+        "file": "res/playground/idol_yaga.png",
+        "name": "idol_yaga",
+        "x": 1687.0,
+        "y": 230.0,
+        "z": -1
+    },
+    "idol_keykeeper": {
+        "file": "res/playground/idol_keykeeper.png", 
+        "name": "idol_keykeeper", 
+        "x": 1281.0, 
+        "y": 272.0, 
+        "z": -1
+    },
+    "idol_croc": {
+        "file": "res/playground/idol_croc.png",
+        "name": "idol_croc",
+        "x": 1237.0,
+        "y": 324.0,
+        "z": -1
+    },
+    "idol_shrooms_noworm": {
+        "file": "res/playground/idol_shrooms_noworm.png",
+        "name": "idol_shrooms_noworm",
+        "x": 500.0,
+        "y": 570.5,
+        "z": 0
+    },
+    "idol_shrooms": {
+        "file": "res/playground/idol_shrooms.png", 
+        "name": "idol_shrooms", 
+        "x": 500.0,
+        "y": 570.5, 
+        "z": 0
+    },
+    "play_slide": {
+        "file": "res/playground/play_gorka.png", 
+        "name": "play_slide",
+        "x": 1969.0, 
+        "y": 292.0, 
+        "z": -1
+    },
+    "idol_bear": {
+        "file": "res/playground/idol_bear.png",
+        "name": "idol_bear",
+        "x": 2356.5,
+        "y": 370.5,
+        "z": -1
+    },
+    "sky": {
+        "file": "res/playground/sky.png", 
+        "name": "sky", 
+        "x": 1332.0, 
+        "y": 173.5, 
+        "z": -3
+    }
+}

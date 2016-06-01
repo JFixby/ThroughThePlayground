@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'AdventureJam2016' target in the 'AdventureJam2016' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+	#import <UIKit/UIKit.h>
+#endif
